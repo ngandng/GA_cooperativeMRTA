@@ -6,7 +6,7 @@ To run the program, dowload all the source code and run "main.m" in MATLAB.
 
 ## Related Paper
 
-This code implements the approach described in the paper "[Name](https://doi.org/10.1234/nips.2023.00123)" by John Doe and Jane Smith, published in Neural Information Processing Systems, 2023.
+Some part of the code implemented based on the approach described in the paper "[PSO-based optimal task allocation for cooperative timing missions](https://doi.org/10.1016/j.ifacol.2016.09.054)" by Oh, Gyeongtaek, Youdan Kim, Jaemyung Ahn, and Han-Lim Choi, published in IFAC-PapersOnLine(2016).
 
 ## Results
 The result of algorithm with 500 iterations.
